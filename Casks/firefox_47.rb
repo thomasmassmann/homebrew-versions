@@ -1,4 +1,4 @@
-cask 'firefox' do
+cask 'firefox_47' do
   version '47.0.1'
 
   language 'en', default: true do
