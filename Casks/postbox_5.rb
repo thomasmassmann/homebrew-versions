@@ -1,4 +1,4 @@
-cask 'postbox' do
+cask 'postbox_5' do
   version '5.0.24,1_c5810ea796337b300b4f30dac967fb7623b5a16c'
   sha256 '124704184e020d41cdbc7e587aea9a04cf8ccae6216ee330d895d8a827fc2665'
 
